@@ -23,5 +23,4 @@ This project implements a Sudoku puzzle solver using a Genetic Algorithm (GA). I
 5. **Mutation**: Swaps two non-fixed values in a row to maintain diversity.
 6. **Evolution**: Repeats for multiple generations to converge toward a solution.
 
-## 🧪 Sample Puzzle (0 = blank cell)
 
